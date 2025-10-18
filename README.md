@@ -14,7 +14,7 @@ This project implements a binary sentiment classification model using BERT (Bidi
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
+- [Author](#author)
 
 ## Overview
 
@@ -106,7 +106,7 @@ Manual testing on various example texts shows accurate sentiment predictions:
 
 ### Model Size
 - **Parameters**: ~110M (BERT base) + ~769 (classifier)
-- **Saved Model Size**: ~438 MB (bert_sentiment_classifer.pth) - Not included in repository
+- **Saved Model Size**: ~438 MB (bert_sentiment_classifer.pth)
 
 ## Inference
 Use the provided scripts to make predictions:
@@ -168,7 +168,7 @@ See `requirements.txt` for exact version specifications.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/text-sentiment-classification-bert.git
+git clone https://github.com/walid-moussa55/text-sentiment-classification-bert.git
 cd text-sentiment-classification-bert
 ```
 
